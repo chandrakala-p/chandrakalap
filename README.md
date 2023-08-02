@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://alfredrodriguez98.github.io/" target="_blank">Alfred's Portfolio</a>
+  <a href="https://alfredrodriguez98.github.io/" target="_blank">Chandrakala's Portfolio</a>
 </h2>
 
 <br/>
@@ -69,4 +69,4 @@ You will find all the components used and you can edit your information accordin
 ## Credits:
 
 Inspirations from [Soumyajit4419](https://github.com/soumyajit4419/Portfolio),
-[Akshay N A](https://github.com/akshay-na)
+

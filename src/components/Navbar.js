@@ -83,7 +83,7 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link href="https://docs.google.com/document/d/1CkurTfU8EPR0_uoRO-ltmoQoAoSLxDi4WnRyttbHBLA/export?format=pdf">
+              <Nav.Link href="https://docs.google.com/document/d/1e27wMrmOccnjqZlFoGzj4VLukCPtwXBjQy_ufq5dNEE/export?format=pdf">
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>

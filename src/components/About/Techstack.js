@@ -6,7 +6,12 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiAndroid,
+  DiMongodb,
+  DiScala,
+  DiMysql,
+  DiBitbucket,
+  DiBootstrap,
+  DiCss3,
   DiGit,
 } from "react-icons/di";
 import { SiJenkins, SiFirebase, SiDocker } from "react-icons/si";
@@ -21,10 +26,31 @@ function Techstack() {
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <DiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGit />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiBootstrap />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiBitbucket />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMysql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiScala />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
